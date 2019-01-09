@@ -1,0 +1,7 @@
+C:\Users\glenb\Documents\Visual Studio 2017\Projects\Csharp\Step113\Step113\obj\Debug\Step113.csprojAssemblyReference.cache
+C:\Users\glenb\Documents\Visual Studio 2017\Projects\Csharp\Step113\Step113\obj\Debug\Step113.csproj.CoreCompileInputs.cache
+C:\Users\glenb\Documents\Visual Studio 2017\Projects\Csharp\Step113\Step113\bin\Debug\Step113.exe.config
+C:\Users\glenb\Documents\Visual Studio 2017\Projects\Csharp\Step113\Step113\bin\Debug\Step113.exe
+C:\Users\glenb\Documents\Visual Studio 2017\Projects\Csharp\Step113\Step113\bin\Debug\Step113.pdb
+C:\Users\glenb\Documents\Visual Studio 2017\Projects\Csharp\Step113\Step113\obj\Debug\Step113.exe
+C:\Users\glenb\Documents\Visual Studio 2017\Projects\Csharp\Step113\Step113\obj\Debug\Step113.pdb
